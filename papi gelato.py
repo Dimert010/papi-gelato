@@ -7,9 +7,6 @@ aantalbol = 0
 ijssmaak = 0
 hoorntje = 0
 bakje = 0
-slagroomPrijs = 0.50
-sprinkelsPrijs = 0.30
-caramelPrijs = 0.60
 
 def start():
     keuze = int(input('Bent u 1) particulier of 2) zakelijk? '))
